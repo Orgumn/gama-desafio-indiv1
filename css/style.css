@@ -12,16 +12,13 @@ a:link {
     color: rgb(95, 5, 5);
   }
 
-/* .remove-underline{
-    text-decoration: none;
-    color: darkgray;
-    transition: 1s;
+.carouselExampleCaptions {
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: lightgrey;
+    color: rgba(138, 40, 40, 0.596);
 }
 
-.remove-underline:hover{
-    text-decoration: none;
-    color: rgb(49, 16, 16);
-} */
 
 
 body {
@@ -36,23 +33,21 @@ body {
 }
 
 
-
-/* .section-content {
-    height: 100vh;
-    width: 100vw;
-} */
-
 .card {
     background-color: rgb(105, 52, 52);
-    font-weight: bold;
+    font-weight: normal;
     margin-top: 8px;
     margin-bottom: 4px;
     margin-left: 6px;
     margin-right: 5px;
-
+    text-align: start;
+    text-decoration-color: rgb(24, 23, 23);
 }
 
 footer {
+    bottom:0;
+    clear: both;
+    position: relative;
     margin-top: 50px;
     padding-top: 5px;
     background-color:rgba(0, 0, 0, 0.932);
