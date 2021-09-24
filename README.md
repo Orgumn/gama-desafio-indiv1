@@ -1,5 +1,7 @@
 # Desafio Individual 1 - Criação de Catálogo de Produtos XP39
 
+### **Para visualizar o produto final no ar, acessar: https://gama-desafio-indiv1.herokuapp.com/index.html **
+
 
 ### **<ins>Sprint 1</ins>**
 
